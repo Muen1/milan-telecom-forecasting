@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# large data folders
+data/raw/
+data/processed/
+data/grid/
+
