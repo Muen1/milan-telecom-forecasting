@@ -12,10 +12,10 @@ This repository contains the complete implementation for the assignment *"Compar
 ```text
 milan-telecom-forecasting/
 ├── data/
-│ ├── raw/ # Place daily .txt files here (not uploaded to GitHub)
-│ ├── grid/ # (Optional) grid_data.csv – not required for heatmap
+│ ├── raw/ 
+│ ├── grid/ # grid_data.csv (for heatmap)
 │ └── processed/ # Generated after running load_data.py
-│ ├── target_series.csv # Time series for squares 4159, 4556, 9510
+│ ├── target_series.csv # Time series for squares 4159, 4556, 5059
 │ └── total_traffic.npy # Total traffic per square (10,000 values)
 ├── src/
 │ ├── load_data.py # Efficient streaming loader (Task 1)
@@ -24,13 +24,13 @@ milan-telecom-forecasting/
 │ ├── prepare_data.py # Data preprocessing & scaling
 │ ├── sarima_model.py # ARIMA model wrapper
 │ ├── nn_models.py # LSTM & GRU builders, sequence creation
-│ └── (diagnose.py, etc.) # Auxiliary scripts
+│ └── validate_data.py # Auxiliary scripts
 ├── reports/
 │ ├── figures/ # All plots (generated automatically)
 │ └── model_performance.csv # Metrics (MAE, MAPE, RMSE, times)
-├── requirements.txt # Python dependencies
-├── README.md # This file
-└── .gitignore # Exclude raw data, venv, etc.
+├── requirements.txt 
+├── README.md 
+└── .gitignore 
 ```
 
 ---
