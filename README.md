@@ -148,7 +148,7 @@ The report (PDF) and video demonstration provide detailed discussion and failure
 
 ## YouTube Video (https://youtu.be/IWPGIfq_X3I)[https://youtu.be/IWPGIfq_X3I]
 
-## Report 
+## Report (https://docs.google.com/document/d/1HmVP3fQWZn_te4vzz4DWc8zjoRAUamQW54-scY7ikM4/edit?usp=sharing)[https://docs.google.com/document/d/1HmVP3fQWZn_te4vzz4DWc8zjoRAUamQW54-scY7ikM4/edit?usp=sharing]
 
 ## Hardware and Software used.
 
