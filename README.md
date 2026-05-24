@@ -1,7 +1,9 @@
 # Mobile Network Traffic Forecasting – Milan Telecom Dataset
 
 **Author**: Cynthia Mutie 
+
 **Course**: ML Techniques I  
+
 **Date**: 21 st May 2026  
 
 This repository contains the complete implementation for the assignment *"Comparative Time Series Analysis and Forecasting of Mobile Network Traffic"*. The project analyses 10‑minute aggregated mobile Internet activity (CDR‑based) over a 100×100 grid covering the city of Milan (10,000 areas) during November and December 2013. Three forecasting models – ARIMA, LSTM, and GRU – are implemented and compared for one‑step‑ahead prediction of traffic in three selected squares.
@@ -144,7 +146,7 @@ The best performing model for the high‑traffic square (9510) is **LSTM**:
 Full quantitative results are in `reports/model_performance.csv`.
 The report (PDF) and video demonstration provide detailed discussion and failure analysis.
 
-## YouTube Video
+## YouTube Video (https://youtu.be/IWPGIfq_X3I)[https://youtu.be/IWPGIfq_X3I]
 
 ## Report 
 
